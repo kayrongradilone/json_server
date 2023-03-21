@@ -8,15 +8,9 @@
     },
     {
       "id": 4,
+      "nomeCompleto": "Eugenio Guerino Gradilone",
       "email": "eugenio@hotmail.com",
-      "cidadeId": 4,
-      "nomeCompleto": "Eugenio Guerino"
-    },
-    {
-      "id": 5,
-      "nomeCompleto": "Gustavo Sousa",
-      "email": "gustavo@hotmail.com",
-      "cidadeId": 1
+      "cidadeId": 4
     },
     {
       "id": 7,
@@ -31,52 +25,28 @@
       "cidadeId": 4
     },
     {
-      "id": 10,
-      "nomeCompleto": "Stefani",
-      "email": "kayrongradilone@hotmail.com",
-      "cidadeId": 1
-    },
-    {
       "id": 11,
       "email": "cesilveira1@hotmail.com",
       "cidadeId": 2,
       "nomeCompleto": "Joao"
     },
     {
-      "id": 12,
-      "email": "jose@hotmail.com",
-      "cidadeId": 1,
-      "nomeCompleto": "Maria"
-    },
-    {
+      "id": 14,
       "nomeCompleto": "Jean ",
       "email": "jean@gmail.com",
-      "cidadeId ": 2,
-      "id": 14
-    },
-    {
-      "id": 15,
-      "nomeCompleto": "Jose Silveira Junior",
-      "email": "jose@hotmail.com",
       "cidadeId": 4
-    },
-    {
-      "id": 16,
-      "nomeCompleto": "Janaina Mendes",
-      "email": "j@gmail.com",
-      "cidadeId": 1
-    },
-    {
-      "id": 18,
-      "nomeCompleto": "Gabriel Gomes",
-      "email": "gomes@gmail.com",
-      "cidadeId": 1
     },
     {
       "nomeCompleto": "Carol Jahn",
       "email": "carolinejahn@gmail.com",
       "cidadeId": 2,
       "id": 19
+    },
+    {
+      "nomeCompleto": "Pedro",
+      "email": "pedro@hotmail.com",
+      "cidadeId": 2,
+      "id": 20
     }
   ],
   "inquilinos": [
@@ -88,12 +58,8 @@
       "email": "jose@hotmail.com",
       "cidadeId": 4
     }
-   ],
+  ],
   "cidades": [
-    {
-      "id": 1,
-      "nome": "Santos - SP"
-    },
     {
       "id": 2,
       "nome": "Florianópolis - SC"
